@@ -1,0 +1,43 @@
+treatment	well	combination	cyl(max_gr)	sem(max_gr)	nav(max_gr)
+axenic	A1	sem		0.355363179	
+axenic	A3	sem+cyl	1.284994997	0.895345796	
+axenic	A4	sem		0.619471382	
+axenic	A5	cyl	1.409379843		
+axenic	A6	cyl	1.371337656		
+axenic	B1	triple	1.02748323	1.089910519	1.204042369
+axenic	B2	nav			1.367602568
+axenic	B3	sem		0.701740234	
+axenic	B4	sem+cyl	0.864227047	0.924252047	
+axenic	B6	cyl+nav	1.093109404		0.980938227
+axenic	C1	sem+nav		0.802823327	1.444701584
+axenic	C3	sem+nav		1.00243946	0.925874521
+axenic	C4	sem+nav		1.063695479	0.826940221
+axenic	C5	nav			1.376016844
+axenic	C6	nav			1.224019711
+axenic	D1	triple	1.303190742	1.004398474	1.202420866
+axenic	D2	triple	1.337154993	0.957519833	1.279416384
+axenic	D3	sem+cyl	1.250817059	0.838316165	
+axenic	D4	cyl+nav	1.18764566		1.053129344
+axenic	D5	cyl+nav	1.471052167		1.382958484
+axenic	D6	cyl	1.402521918		
+bacteria	A1	sem		0.48942378	
+bacteria	A3	sem+cyl	0.916163725	0.779255696	
+bacteria	A4	sem		0.499489673	
+bacteria	A5	cyl	1.164208217		
+bacteria	A6	cyl	0.873659478		
+bacteria	B1	triple	1.284330344	1.424354762	0.971505011
+bacteria	B2	nav			0.480277388
+bacteria	B3	sem		0.413921479	
+bacteria	B4	sem+cyl	1.298568607	0.722266855	
+bacteria	B6	cyl+nav	1.145957763		1.456716721
+bacteria	C1	sem+nav		0.768632879	0.742713414
+bacteria	C3	sem+nav		1.146640346	0.927908206
+bacteria	C4	sem+nav		0.921002975	1.157750913
+bacteria	C5	nav			0.740811376
+bacteria	C6	nav			0.812438435
+bacteria	D1	triple	1.032352845	1.203917407	0.760416082
+bacteria	D2	triple	1.11809911	1.123708909	1.144753309
+bacteria	D3	sem+cyl	0.939537609	1.076945101	
+bacteria	D4	cyl+nav	0.927908206		0.940426367
+bacteria	D5	cyl+nav	0.988850666		0.717201412
+bacteria	D6	cyl	0.984813175		
