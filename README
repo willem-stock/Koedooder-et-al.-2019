@@ -1,0 +1,13 @@
+Data accompanying the manuscript Koedooder & Stock et al. Diatom-bacteria interactions modulate the composition and productivity of benthic diatom biofilms.
+
+
+-	countdata.xlsx 	contains the averaged diatom cell counts per well per day
+-	growth_rates.txt contains the maximum growth rates for the different diatom species. These growth rates were calculated on the log2 tranformed cell counts from T1 to T4 using a moving windows approach of 3 days
+-	div partitioning script.R provides the used procedure to calculate the algal diversity-productivity relationship as in Loreau & Hector
+-	16S_OTU_table.txt contains the read counts per sample as well as the taxonomic assignment to the operational taxonomic units (OTUs). Reads assigned to chloroplasts and mitochondria have been removed
+
+Abbreviations include:
+Cyl: Cylindrotheca closterium
+Nav: Navicula phyllepta
+Sem. Seminavis robusta
+Triple: all three diatom species together
